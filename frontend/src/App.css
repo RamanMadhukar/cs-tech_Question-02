@@ -1,0 +1,76 @@
+body {
+  overflow-x: hidden;
+}
+
+.btn {
+  background-color: #ee3d33 !important;
+  color: white !important;
+
+}
+
+
+.top-grid {
+  margin: 5%;
+
+}
+
+.textfield {
+  margin-bottom: 15px !important;
+  width: 250px;
+}
+
+.second-pane {
+  width: 70%;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+}
+
+.search-text {
+  width: 90%;
+  margin-right: 15px !important;
+}
+
+.edit {
+  font-size: 20px;
+  margin-right: 5px;
+  
+}
+
+.delete{
+  font-size: 20px;
+  margin-left: 5px; 
+  color: red;
+
+}
+
+.slash{
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.delete:hover{
+  cursor: pointer;
+}
+
+.home-page-redirect{
+  color:#ee3d33;
+}
+
+.home-page-redirect:hover{
+  color: Green;
+  margin-top: 10px !important;
+}
+
+.edit-grid{
+  margin-top: 10%;
+  display: flex;
+  justify-content: center;
+
+}
+
+.all-div{
+  margin-top: 5% !important;
+}
